@@ -1,5 +1,5 @@
-var qmakeVers = '2020';
-var qmakeProgName = "Zo Cours de français";
+var qmakeVers = 'exercice';
+var qmakeProgName = "zo";
 var qmakeURL = 'www.zo.com/';
 var dhtmlEnabled = 1;
 var html5Enabled = 1;
@@ -50,7 +50,7 @@ var qstHead;
 var groups;
 var quizTitle="Cours de français A1";
 var printCpRg=1;
-var filename = '1 exo';
+var filename = '1 exo rep';
 
 var topChartFile='';
 var pesi;
